@@ -1,0 +1,24 @@
+body {background-color: black}
+
+#div1 {background:#98bf21;
+    height:100px;
+    width:100px;
+    position:absolute;}
+
+#div2 {background:#3878e0;
+    height:200px;
+    width:200px;
+    position:absolute;}
+
+#div3 {background:#c63a17;
+    height:150px;
+    width:250px;
+    position:fixed;
+    left:50px}
+
+#div4 {background:#c6b817;
+    height:300px;
+    width:50px;
+    position:fixed;
+    left:50px;
+    top:150px}
